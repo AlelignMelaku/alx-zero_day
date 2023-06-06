@@ -1,1 +1,1 @@
-“ this is my second commit on oxo3-git ”
+“ this is my second commit ”
